@@ -1,8 +1,38 @@
 {
-  "posts": [
+  "popularPlace": [
     {
       "id": 1,
       "title": "hello"
+      "thumbnail": "https://static.dev.livekorea.io/pc/images/main/iksundong.jpg",
+      "url": "/place"
+    }
+    
+    {
+      "id": 2,
+      "title": "HONGDAE"
+      "thumbnail": "https://static.dev.livekorea.io/pc/images/main/hongdae.jpg",
+      "url": "/place"
+    }
+    
+    {
+      "id": 3,
+      "title": "APGUJEONG"
+      "thumbnail": "https://static.dev.livekorea.io/pc/images/main/apgujung.jpg",
+      "url": "/place"
+    }
+    
+    {
+      "id": 4,
+      "title": "JONGNO"
+      "thumbnail": "https://static.dev.livekorea.io/pc/images/main/jongno.jpg",
+      "url": "/place"
+    }
+    
+    {
+      "id": 5,
+      "title": "IKSUNDONG"
+      "thumbnail": "https://static.dev.livekorea.io/pc/images/main/iksundong.jpg",
+      "url": "/place"
     }
   ]
 }
